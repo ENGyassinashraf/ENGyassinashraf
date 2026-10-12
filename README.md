@@ -19,10 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ENGyassinashraf&style=flat-square&color=0e75b6" alt="Profile views" />
-</p>
-
 ---
 
 ## 👋 About Me
