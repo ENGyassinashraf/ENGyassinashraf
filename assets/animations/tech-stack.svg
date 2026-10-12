@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="112" viewBox="0 0 900 112" role="img" aria-labelledby="title desc">
+  <title id="title">Animated technology showcase</title>
+  <desc id="desc">Subtle animated cards highlighting C-sharp, C++, .NET, SQL Server, REST APIs, and Git.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#122334"/><stop offset="1" stop-color="#0d1723"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf"/><stop offset="0.5" stop-color="#38bdf8"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+    <clipPath id="sweepClip"><rect x="0" y="0" width="900" height="112" rx="12"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="898" height="110" rx="13" fill="#0b1420" stroke="#263b4b"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(14 20)"><rect width="132" height="68" rx="10" fill="url(#card)" stroke="#315368"/><circle cx="20" cy="19" r="3" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.5s" repeatCount="indefinite"/></circle><text x="66" y="31" text-anchor="middle" fill="#e5f4fb" font-size="23" font-weight="700">C#</text><text x="66" y="51" text-anchor="middle" fill="#8caabc" font-size="10">LANGUAGE</text></g>
+    <g transform="translate(160 20)"><rect width="132" height="68" rx="10" fill="url(#card)" stroke="#315368"/><circle cx="20" cy="19" r="3" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.7s" begin="0.4s" repeatCount="indefinite"/></circle><text x="66" y="31" text-anchor="middle" fill="#e5f4fb" font-size="23" font-weight="700">C++</text><text x="66" y="51" text-anchor="middle" fill="#8caabc" font-size="10">LANGUAGE</text></g>
+    <g transform="translate(306 20)"><rect width="132" height="68" rx="10" fill="url(#card)" stroke="#315368"/><circle cx="20" cy="19" r="3" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.9s" begin="0.8s" repeatCount="indefinite"/></circle><text x="66" y="31" text-anchor="middle" fill="#e5f4fb" font-size="23" font-weight="700">.NET</text><text x="66" y="51" text-anchor="middle" fill="#8caabc" font-size="10">BACK-END</text></g>
+    <g transform="translate(452 20)"><rect width="132" height="68" rx="10" fill="url(#card)" stroke="#315368"/><circle cx="20" cy="19" r="3" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="4.1s" begin="1.2s" repeatCount="indefinite"/></circle><text x="66" y="31" text-anchor="middle" fill="#e5f4fb" font-size="17" font-weight="700">SQL Server</text><text x="66" y="51" text-anchor="middle" fill="#8caabc" font-size="10">DATABASE</text></g>
+    <g transform="translate(598 20)"><rect width="132" height="68" rx="10" fill="url(#card)" stroke="#315368"/><circle cx="20" cy="19" r="3" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="4.3s" begin="1.6s" repeatCount="indefinite"/></circle><text x="66" y="31" text-anchor="middle" fill="#e5f4fb" font-size="19" font-weight="700">REST API</text><text x="66" y="51" text-anchor="middle" fill="#8caabc" font-size="10">INTEGRATION</text></g>
+    <g transform="translate(744 20)"><rect width="142" height="68" rx="10" fill="url(#card)" stroke="#315368"/><circle cx="20" cy="19" r="3" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="4.5s" begin="2s" repeatCount="indefinite"/></circle><text x="71" y="31" text-anchor="middle" fill="#e5f4fb" font-size="23" font-weight="700">Git</text><text x="71" y="51" text-anchor="middle" fill="#8caabc" font-size="10">VERSION CONTROL</text></g>
+  </g>
+  <g clip-path="url(#sweepClip)" opacity="0.8"><rect x="-180" y="18" width="170" height="2" rx="1" fill="url(#glow)"><animate attributeName="x" values="-180;910;-180" dur="8.5s" repeatCount="indefinite"/></rect></g>
+</svg>
