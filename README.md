@@ -31,6 +31,14 @@ I'm **Yassin Ashraf Hamed**, an Information Technology student at Kafr Elsheikh 
 - 🎓 I completed the 24-course Programming Advices roadmap and NTI Cloud Essentials training with a **97.5% final score**.
 - 🚀 I enjoy turning requirements into secure, well-structured software that solves real problems.
 
+## ⚙️ Back-End Request Flow
+
+A simplified view of how a typical .NET API request can move through the application and data layers.
+
+<p align="center">
+  <img src="./assets/animations/backend-architecture.gif" alt="Animated back-end request flow from client to ASP.NET Core API, application services, Entity Framework Core, and SQL Server" width="100%" />
+</p>
+
 ## 🚀 Featured Project
 
 ### ATLAS — Academic Tracking & Learning Assessment System
@@ -52,6 +60,10 @@ An academic platform deployed college-wide and serving all four academic batches
 </p>
 
 <p align="center">
+  <img src="./assets/animations/tech-stack.gif" alt="Animated technology showcase featuring C sharp, C++, .NET, SQL Server, REST APIs, and Git" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/ASP.NET%20Core-Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core Web API" />
   <img src="https://img.shields.io/badge/Entity%20Framework-Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
   <img src="https://img.shields.io/badge/Microsoft-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
@@ -62,6 +74,12 @@ An academic platform deployed college-wide and serving all four academic batches
 </p>
 
 **Core areas:** C#, C++, SQL/T-SQL, OOP, SOLID, Data Structures & Algorithms, LINQ, Dependency Injection, relational database design, input validation, and audit logging.
+
+## ⌨️ C# in Motion
+
+<p align="center">
+  <img src="./assets/animations/coding-terminal.gif" alt="Animated C sharp API controller code in a dark editor" width="100%" />
+</p>
 
 ## 📌 Selected Public Projects
 
