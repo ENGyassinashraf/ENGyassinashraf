@@ -81,9 +81,6 @@ An academic platform deployed college-wide and serving all four academic batches
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENGyassinashraf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ENGyassinashraf&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
-</p>
 
 ## 🐍 Contribution Snake
 
